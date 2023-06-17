@@ -1,0 +1,15 @@
+D:\PROJECTS\Console app\Dot net tricks\Factorial of a Number\bin\Debug\net6.0\Factorial of a Number.exe
+D:\PROJECTS\Console app\Dot net tricks\Factorial of a Number\bin\Debug\net6.0\Factorial of a Number.deps.json
+D:\PROJECTS\Console app\Dot net tricks\Factorial of a Number\bin\Debug\net6.0\Factorial of a Number.runtimeconfig.json
+D:\PROJECTS\Console app\Dot net tricks\Factorial of a Number\bin\Debug\net6.0\Factorial of a Number.dll
+D:\PROJECTS\Console app\Dot net tricks\Factorial of a Number\bin\Debug\net6.0\Factorial of a Number.pdb
+D:\PROJECTS\Console app\Dot net tricks\Factorial of a Number\obj\Debug\net6.0\Factorial of a Number.csproj.AssemblyReference.cache
+D:\PROJECTS\Console app\Dot net tricks\Factorial of a Number\obj\Debug\net6.0\Factorial of a Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\Console app\Dot net tricks\Factorial of a Number\obj\Debug\net6.0\Factorial of a Number.AssemblyInfoInputs.cache
+D:\PROJECTS\Console app\Dot net tricks\Factorial of a Number\obj\Debug\net6.0\Factorial of a Number.AssemblyInfo.cs
+D:\PROJECTS\Console app\Dot net tricks\Factorial of a Number\obj\Debug\net6.0\Factorial of a Number.csproj.CoreCompileInputs.cache
+D:\PROJECTS\Console app\Dot net tricks\Factorial of a Number\obj\Debug\net6.0\Factorial of a Number.dll
+D:\PROJECTS\Console app\Dot net tricks\Factorial of a Number\obj\Debug\net6.0\refint\Factorial of a Number.dll
+D:\PROJECTS\Console app\Dot net tricks\Factorial of a Number\obj\Debug\net6.0\Factorial of a Number.pdb
+D:\PROJECTS\Console app\Dot net tricks\Factorial of a Number\obj\Debug\net6.0\Factorial of a Number.genruntimeconfig.cache
+D:\PROJECTS\Console app\Dot net tricks\Factorial of a Number\obj\Debug\net6.0\ref\Factorial of a Number.dll

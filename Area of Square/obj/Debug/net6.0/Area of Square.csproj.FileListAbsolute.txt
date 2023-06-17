@@ -1,0 +1,15 @@
+D:\PROJECTS\Console app\Dot net tricks\Area of Square\bin\Debug\net6.0\Area of Square.exe
+D:\PROJECTS\Console app\Dot net tricks\Area of Square\bin\Debug\net6.0\Area of Square.deps.json
+D:\PROJECTS\Console app\Dot net tricks\Area of Square\bin\Debug\net6.0\Area of Square.runtimeconfig.json
+D:\PROJECTS\Console app\Dot net tricks\Area of Square\bin\Debug\net6.0\Area of Square.dll
+D:\PROJECTS\Console app\Dot net tricks\Area of Square\bin\Debug\net6.0\Area of Square.pdb
+D:\PROJECTS\Console app\Dot net tricks\Area of Square\obj\Debug\net6.0\Area of Square.csproj.AssemblyReference.cache
+D:\PROJECTS\Console app\Dot net tricks\Area of Square\obj\Debug\net6.0\Area of Square.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\Console app\Dot net tricks\Area of Square\obj\Debug\net6.0\Area of Square.AssemblyInfoInputs.cache
+D:\PROJECTS\Console app\Dot net tricks\Area of Square\obj\Debug\net6.0\Area of Square.AssemblyInfo.cs
+D:\PROJECTS\Console app\Dot net tricks\Area of Square\obj\Debug\net6.0\Area of Square.csproj.CoreCompileInputs.cache
+D:\PROJECTS\Console app\Dot net tricks\Area of Square\obj\Debug\net6.0\Area of Square.dll
+D:\PROJECTS\Console app\Dot net tricks\Area of Square\obj\Debug\net6.0\refint\Area of Square.dll
+D:\PROJECTS\Console app\Dot net tricks\Area of Square\obj\Debug\net6.0\Area of Square.pdb
+D:\PROJECTS\Console app\Dot net tricks\Area of Square\obj\Debug\net6.0\Area of Square.genruntimeconfig.cache
+D:\PROJECTS\Console app\Dot net tricks\Area of Square\obj\Debug\net6.0\ref\Area of Square.dll

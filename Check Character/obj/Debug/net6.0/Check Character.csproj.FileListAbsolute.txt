@@ -1,0 +1,15 @@
+D:\PROJECTS\Console app\Dot net tricks\Check Character\bin\Debug\net6.0\Check Character.exe
+D:\PROJECTS\Console app\Dot net tricks\Check Character\bin\Debug\net6.0\Check Character.deps.json
+D:\PROJECTS\Console app\Dot net tricks\Check Character\bin\Debug\net6.0\Check Character.runtimeconfig.json
+D:\PROJECTS\Console app\Dot net tricks\Check Character\bin\Debug\net6.0\Check Character.dll
+D:\PROJECTS\Console app\Dot net tricks\Check Character\bin\Debug\net6.0\Check Character.pdb
+D:\PROJECTS\Console app\Dot net tricks\Check Character\obj\Debug\net6.0\Check Character.csproj.AssemblyReference.cache
+D:\PROJECTS\Console app\Dot net tricks\Check Character\obj\Debug\net6.0\Check Character.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\Console app\Dot net tricks\Check Character\obj\Debug\net6.0\Check Character.AssemblyInfoInputs.cache
+D:\PROJECTS\Console app\Dot net tricks\Check Character\obj\Debug\net6.0\Check Character.AssemblyInfo.cs
+D:\PROJECTS\Console app\Dot net tricks\Check Character\obj\Debug\net6.0\Check Character.csproj.CoreCompileInputs.cache
+D:\PROJECTS\Console app\Dot net tricks\Check Character\obj\Debug\net6.0\Check Character.dll
+D:\PROJECTS\Console app\Dot net tricks\Check Character\obj\Debug\net6.0\refint\Check Character.dll
+D:\PROJECTS\Console app\Dot net tricks\Check Character\obj\Debug\net6.0\Check Character.pdb
+D:\PROJECTS\Console app\Dot net tricks\Check Character\obj\Debug\net6.0\Check Character.genruntimeconfig.cache
+D:\PROJECTS\Console app\Dot net tricks\Check Character\obj\Debug\net6.0\ref\Check Character.dll
