@@ -1,0 +1,15 @@
+D:\PROJECTS\Console app\Dot net tricks\Even Odd\bin\Debug\net6.0\Even Odd.exe
+D:\PROJECTS\Console app\Dot net tricks\Even Odd\bin\Debug\net6.0\Even Odd.deps.json
+D:\PROJECTS\Console app\Dot net tricks\Even Odd\bin\Debug\net6.0\Even Odd.runtimeconfig.json
+D:\PROJECTS\Console app\Dot net tricks\Even Odd\bin\Debug\net6.0\Even Odd.dll
+D:\PROJECTS\Console app\Dot net tricks\Even Odd\bin\Debug\net6.0\Even Odd.pdb
+D:\PROJECTS\Console app\Dot net tricks\Even Odd\obj\Debug\net6.0\Even Odd.csproj.AssemblyReference.cache
+D:\PROJECTS\Console app\Dot net tricks\Even Odd\obj\Debug\net6.0\Even Odd.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\Console app\Dot net tricks\Even Odd\obj\Debug\net6.0\Even Odd.AssemblyInfoInputs.cache
+D:\PROJECTS\Console app\Dot net tricks\Even Odd\obj\Debug\net6.0\Even Odd.AssemblyInfo.cs
+D:\PROJECTS\Console app\Dot net tricks\Even Odd\obj\Debug\net6.0\Even Odd.csproj.CoreCompileInputs.cache
+D:\PROJECTS\Console app\Dot net tricks\Even Odd\obj\Debug\net6.0\Even Odd.dll
+D:\PROJECTS\Console app\Dot net tricks\Even Odd\obj\Debug\net6.0\refint\Even Odd.dll
+D:\PROJECTS\Console app\Dot net tricks\Even Odd\obj\Debug\net6.0\Even Odd.pdb
+D:\PROJECTS\Console app\Dot net tricks\Even Odd\obj\Debug\net6.0\Even Odd.genruntimeconfig.cache
+D:\PROJECTS\Console app\Dot net tricks\Even Odd\obj\Debug\net6.0\ref\Even Odd.dll
