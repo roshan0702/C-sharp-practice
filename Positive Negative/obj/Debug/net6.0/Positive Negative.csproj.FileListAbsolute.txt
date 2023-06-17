@@ -1,0 +1,15 @@
+D:\PROJECTS\Console app\Dot net tricks\Positive Negative\bin\Debug\net6.0\Positive Negative.exe
+D:\PROJECTS\Console app\Dot net tricks\Positive Negative\bin\Debug\net6.0\Positive Negative.deps.json
+D:\PROJECTS\Console app\Dot net tricks\Positive Negative\bin\Debug\net6.0\Positive Negative.runtimeconfig.json
+D:\PROJECTS\Console app\Dot net tricks\Positive Negative\bin\Debug\net6.0\Positive Negative.dll
+D:\PROJECTS\Console app\Dot net tricks\Positive Negative\bin\Debug\net6.0\Positive Negative.pdb
+D:\PROJECTS\Console app\Dot net tricks\Positive Negative\obj\Debug\net6.0\Positive Negative.csproj.AssemblyReference.cache
+D:\PROJECTS\Console app\Dot net tricks\Positive Negative\obj\Debug\net6.0\Positive Negative.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\Console app\Dot net tricks\Positive Negative\obj\Debug\net6.0\Positive Negative.AssemblyInfoInputs.cache
+D:\PROJECTS\Console app\Dot net tricks\Positive Negative\obj\Debug\net6.0\Positive Negative.AssemblyInfo.cs
+D:\PROJECTS\Console app\Dot net tricks\Positive Negative\obj\Debug\net6.0\Positive Negative.csproj.CoreCompileInputs.cache
+D:\PROJECTS\Console app\Dot net tricks\Positive Negative\obj\Debug\net6.0\Positive Negative.dll
+D:\PROJECTS\Console app\Dot net tricks\Positive Negative\obj\Debug\net6.0\refint\Positive Negative.dll
+D:\PROJECTS\Console app\Dot net tricks\Positive Negative\obj\Debug\net6.0\Positive Negative.pdb
+D:\PROJECTS\Console app\Dot net tricks\Positive Negative\obj\Debug\net6.0\Positive Negative.genruntimeconfig.cache
+D:\PROJECTS\Console app\Dot net tricks\Positive Negative\obj\Debug\net6.0\ref\Positive Negative.dll

@@ -1,0 +1,15 @@
+D:\PROJECTS\Console app\Dot net tricks\Vowel or Consonant\bin\Debug\net6.0\Vowel or Consonant.exe
+D:\PROJECTS\Console app\Dot net tricks\Vowel or Consonant\bin\Debug\net6.0\Vowel or Consonant.deps.json
+D:\PROJECTS\Console app\Dot net tricks\Vowel or Consonant\bin\Debug\net6.0\Vowel or Consonant.runtimeconfig.json
+D:\PROJECTS\Console app\Dot net tricks\Vowel or Consonant\bin\Debug\net6.0\Vowel or Consonant.dll
+D:\PROJECTS\Console app\Dot net tricks\Vowel or Consonant\bin\Debug\net6.0\Vowel or Consonant.pdb
+D:\PROJECTS\Console app\Dot net tricks\Vowel or Consonant\obj\Debug\net6.0\Vowel or Consonant.csproj.AssemblyReference.cache
+D:\PROJECTS\Console app\Dot net tricks\Vowel or Consonant\obj\Debug\net6.0\Vowel or Consonant.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\Console app\Dot net tricks\Vowel or Consonant\obj\Debug\net6.0\Vowel or Consonant.AssemblyInfoInputs.cache
+D:\PROJECTS\Console app\Dot net tricks\Vowel or Consonant\obj\Debug\net6.0\Vowel or Consonant.AssemblyInfo.cs
+D:\PROJECTS\Console app\Dot net tricks\Vowel or Consonant\obj\Debug\net6.0\Vowel or Consonant.csproj.CoreCompileInputs.cache
+D:\PROJECTS\Console app\Dot net tricks\Vowel or Consonant\obj\Debug\net6.0\Vowel or Consonant.dll
+D:\PROJECTS\Console app\Dot net tricks\Vowel or Consonant\obj\Debug\net6.0\refint\Vowel or Consonant.dll
+D:\PROJECTS\Console app\Dot net tricks\Vowel or Consonant\obj\Debug\net6.0\Vowel or Consonant.pdb
+D:\PROJECTS\Console app\Dot net tricks\Vowel or Consonant\obj\Debug\net6.0\Vowel or Consonant.genruntimeconfig.cache
+D:\PROJECTS\Console app\Dot net tricks\Vowel or Consonant\obj\Debug\net6.0\ref\Vowel or Consonant.dll

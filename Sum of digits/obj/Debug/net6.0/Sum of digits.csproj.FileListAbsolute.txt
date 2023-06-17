@@ -1,0 +1,15 @@
+D:\PROJECTS\Console app\Dot net tricks\Sum of digits\obj\Debug\net6.0\Sum of digits.csproj.AssemblyReference.cache
+D:\PROJECTS\Console app\Dot net tricks\Sum of digits\obj\Debug\net6.0\Sum of digits.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\Console app\Dot net tricks\Sum of digits\obj\Debug\net6.0\Sum of digits.AssemblyInfoInputs.cache
+D:\PROJECTS\Console app\Dot net tricks\Sum of digits\obj\Debug\net6.0\Sum of digits.AssemblyInfo.cs
+D:\PROJECTS\Console app\Dot net tricks\Sum of digits\obj\Debug\net6.0\Sum of digits.csproj.CoreCompileInputs.cache
+D:\PROJECTS\Console app\Dot net tricks\Sum of digits\bin\Debug\net6.0\Sum of digits.exe
+D:\PROJECTS\Console app\Dot net tricks\Sum of digits\bin\Debug\net6.0\Sum of digits.deps.json
+D:\PROJECTS\Console app\Dot net tricks\Sum of digits\bin\Debug\net6.0\Sum of digits.runtimeconfig.json
+D:\PROJECTS\Console app\Dot net tricks\Sum of digits\bin\Debug\net6.0\Sum of digits.dll
+D:\PROJECTS\Console app\Dot net tricks\Sum of digits\bin\Debug\net6.0\Sum of digits.pdb
+D:\PROJECTS\Console app\Dot net tricks\Sum of digits\obj\Debug\net6.0\Sum of digits.dll
+D:\PROJECTS\Console app\Dot net tricks\Sum of digits\obj\Debug\net6.0\refint\Sum of digits.dll
+D:\PROJECTS\Console app\Dot net tricks\Sum of digits\obj\Debug\net6.0\Sum of digits.pdb
+D:\PROJECTS\Console app\Dot net tricks\Sum of digits\obj\Debug\net6.0\Sum of digits.genruntimeconfig.cache
+D:\PROJECTS\Console app\Dot net tricks\Sum of digits\obj\Debug\net6.0\ref\Sum of digits.dll
