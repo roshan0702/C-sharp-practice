@@ -1,0 +1,15 @@
+D:\PROJECTS\Console app\Dot net tricks\Leap Year\bin\Debug\net6.0\Leap Year.exe
+D:\PROJECTS\Console app\Dot net tricks\Leap Year\bin\Debug\net6.0\Leap Year.deps.json
+D:\PROJECTS\Console app\Dot net tricks\Leap Year\bin\Debug\net6.0\Leap Year.runtimeconfig.json
+D:\PROJECTS\Console app\Dot net tricks\Leap Year\bin\Debug\net6.0\Leap Year.dll
+D:\PROJECTS\Console app\Dot net tricks\Leap Year\bin\Debug\net6.0\Leap Year.pdb
+D:\PROJECTS\Console app\Dot net tricks\Leap Year\obj\Debug\net6.0\Leap Year.csproj.AssemblyReference.cache
+D:\PROJECTS\Console app\Dot net tricks\Leap Year\obj\Debug\net6.0\Leap Year.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\Console app\Dot net tricks\Leap Year\obj\Debug\net6.0\Leap Year.AssemblyInfoInputs.cache
+D:\PROJECTS\Console app\Dot net tricks\Leap Year\obj\Debug\net6.0\Leap Year.AssemblyInfo.cs
+D:\PROJECTS\Console app\Dot net tricks\Leap Year\obj\Debug\net6.0\Leap Year.csproj.CoreCompileInputs.cache
+D:\PROJECTS\Console app\Dot net tricks\Leap Year\obj\Debug\net6.0\Leap Year.dll
+D:\PROJECTS\Console app\Dot net tricks\Leap Year\obj\Debug\net6.0\refint\Leap Year.dll
+D:\PROJECTS\Console app\Dot net tricks\Leap Year\obj\Debug\net6.0\Leap Year.pdb
+D:\PROJECTS\Console app\Dot net tricks\Leap Year\obj\Debug\net6.0\Leap Year.genruntimeconfig.cache
+D:\PROJECTS\Console app\Dot net tricks\Leap Year\obj\Debug\net6.0\ref\Leap Year.dll

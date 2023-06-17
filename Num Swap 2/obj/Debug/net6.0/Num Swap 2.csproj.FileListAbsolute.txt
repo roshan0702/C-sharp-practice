@@ -1,0 +1,15 @@
+D:\PROJECTS\Console app\Dot net tricks\Num Swap 2\bin\Debug\net6.0\Num Swap 2.exe
+D:\PROJECTS\Console app\Dot net tricks\Num Swap 2\bin\Debug\net6.0\Num Swap 2.deps.json
+D:\PROJECTS\Console app\Dot net tricks\Num Swap 2\bin\Debug\net6.0\Num Swap 2.runtimeconfig.json
+D:\PROJECTS\Console app\Dot net tricks\Num Swap 2\bin\Debug\net6.0\Num Swap 2.dll
+D:\PROJECTS\Console app\Dot net tricks\Num Swap 2\bin\Debug\net6.0\Num Swap 2.pdb
+D:\PROJECTS\Console app\Dot net tricks\Num Swap 2\obj\Debug\net6.0\Num Swap 2.csproj.AssemblyReference.cache
+D:\PROJECTS\Console app\Dot net tricks\Num Swap 2\obj\Debug\net6.0\Num Swap 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\Console app\Dot net tricks\Num Swap 2\obj\Debug\net6.0\Num Swap 2.AssemblyInfoInputs.cache
+D:\PROJECTS\Console app\Dot net tricks\Num Swap 2\obj\Debug\net6.0\Num Swap 2.AssemblyInfo.cs
+D:\PROJECTS\Console app\Dot net tricks\Num Swap 2\obj\Debug\net6.0\Num Swap 2.csproj.CoreCompileInputs.cache
+D:\PROJECTS\Console app\Dot net tricks\Num Swap 2\obj\Debug\net6.0\Num Swap 2.dll
+D:\PROJECTS\Console app\Dot net tricks\Num Swap 2\obj\Debug\net6.0\refint\Num Swap 2.dll
+D:\PROJECTS\Console app\Dot net tricks\Num Swap 2\obj\Debug\net6.0\Num Swap 2.pdb
+D:\PROJECTS\Console app\Dot net tricks\Num Swap 2\obj\Debug\net6.0\Num Swap 2.genruntimeconfig.cache
+D:\PROJECTS\Console app\Dot net tricks\Num Swap 2\obj\Debug\net6.0\ref\Num Swap 2.dll

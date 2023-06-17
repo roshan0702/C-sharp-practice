@@ -1,0 +1,15 @@
+D:\PROJECTS\Console app\Dot net tricks\Largest Number\bin\Debug\net6.0\Largest Number.exe
+D:\PROJECTS\Console app\Dot net tricks\Largest Number\bin\Debug\net6.0\Largest Number.deps.json
+D:\PROJECTS\Console app\Dot net tricks\Largest Number\bin\Debug\net6.0\Largest Number.runtimeconfig.json
+D:\PROJECTS\Console app\Dot net tricks\Largest Number\bin\Debug\net6.0\Largest Number.dll
+D:\PROJECTS\Console app\Dot net tricks\Largest Number\bin\Debug\net6.0\Largest Number.pdb
+D:\PROJECTS\Console app\Dot net tricks\Largest Number\obj\Debug\net6.0\Largest Number.csproj.AssemblyReference.cache
+D:\PROJECTS\Console app\Dot net tricks\Largest Number\obj\Debug\net6.0\Largest Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\Console app\Dot net tricks\Largest Number\obj\Debug\net6.0\Largest Number.AssemblyInfoInputs.cache
+D:\PROJECTS\Console app\Dot net tricks\Largest Number\obj\Debug\net6.0\Largest Number.AssemblyInfo.cs
+D:\PROJECTS\Console app\Dot net tricks\Largest Number\obj\Debug\net6.0\Largest Number.csproj.CoreCompileInputs.cache
+D:\PROJECTS\Console app\Dot net tricks\Largest Number\obj\Debug\net6.0\Largest Number.dll
+D:\PROJECTS\Console app\Dot net tricks\Largest Number\obj\Debug\net6.0\refint\Largest Number.dll
+D:\PROJECTS\Console app\Dot net tricks\Largest Number\obj\Debug\net6.0\Largest Number.pdb
+D:\PROJECTS\Console app\Dot net tricks\Largest Number\obj\Debug\net6.0\Largest Number.genruntimeconfig.cache
+D:\PROJECTS\Console app\Dot net tricks\Largest Number\obj\Debug\net6.0\ref\Largest Number.dll
