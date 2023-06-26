@@ -1,0 +1,15 @@
+D:\PROJECTS\Console app\Dot net tricks\Left triangle pattern\bin\Debug\net6.0\Left triangle pattern.exe
+D:\PROJECTS\Console app\Dot net tricks\Left triangle pattern\bin\Debug\net6.0\Left triangle pattern.deps.json
+D:\PROJECTS\Console app\Dot net tricks\Left triangle pattern\bin\Debug\net6.0\Left triangle pattern.runtimeconfig.json
+D:\PROJECTS\Console app\Dot net tricks\Left triangle pattern\bin\Debug\net6.0\Left triangle pattern.dll
+D:\PROJECTS\Console app\Dot net tricks\Left triangle pattern\bin\Debug\net6.0\Left triangle pattern.pdb
+D:\PROJECTS\Console app\Dot net tricks\Left triangle pattern\obj\Debug\net6.0\Left triangle pattern.csproj.AssemblyReference.cache
+D:\PROJECTS\Console app\Dot net tricks\Left triangle pattern\obj\Debug\net6.0\Left triangle pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\Console app\Dot net tricks\Left triangle pattern\obj\Debug\net6.0\Left triangle pattern.AssemblyInfoInputs.cache
+D:\PROJECTS\Console app\Dot net tricks\Left triangle pattern\obj\Debug\net6.0\Left triangle pattern.AssemblyInfo.cs
+D:\PROJECTS\Console app\Dot net tricks\Left triangle pattern\obj\Debug\net6.0\Left triangle pattern.csproj.CoreCompileInputs.cache
+D:\PROJECTS\Console app\Dot net tricks\Left triangle pattern\obj\Debug\net6.0\Left triangle pattern.dll
+D:\PROJECTS\Console app\Dot net tricks\Left triangle pattern\obj\Debug\net6.0\refint\Left triangle pattern.dll
+D:\PROJECTS\Console app\Dot net tricks\Left triangle pattern\obj\Debug\net6.0\Left triangle pattern.pdb
+D:\PROJECTS\Console app\Dot net tricks\Left triangle pattern\obj\Debug\net6.0\Left triangle pattern.genruntimeconfig.cache
+D:\PROJECTS\Console app\Dot net tricks\Left triangle pattern\obj\Debug\net6.0\ref\Left triangle pattern.dll

@@ -1,0 +1,15 @@
+D:\PROJECTS\Console app\Dot net tricks\right triangle pattern\bin\Debug\net6.0\right triangle pattern.exe
+D:\PROJECTS\Console app\Dot net tricks\right triangle pattern\bin\Debug\net6.0\right triangle pattern.deps.json
+D:\PROJECTS\Console app\Dot net tricks\right triangle pattern\bin\Debug\net6.0\right triangle pattern.runtimeconfig.json
+D:\PROJECTS\Console app\Dot net tricks\right triangle pattern\bin\Debug\net6.0\right triangle pattern.dll
+D:\PROJECTS\Console app\Dot net tricks\right triangle pattern\bin\Debug\net6.0\right triangle pattern.pdb
+D:\PROJECTS\Console app\Dot net tricks\right triangle pattern\obj\Debug\net6.0\right triangle pattern.csproj.AssemblyReference.cache
+D:\PROJECTS\Console app\Dot net tricks\right triangle pattern\obj\Debug\net6.0\right triangle pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\Console app\Dot net tricks\right triangle pattern\obj\Debug\net6.0\right triangle pattern.AssemblyInfoInputs.cache
+D:\PROJECTS\Console app\Dot net tricks\right triangle pattern\obj\Debug\net6.0\right triangle pattern.AssemblyInfo.cs
+D:\PROJECTS\Console app\Dot net tricks\right triangle pattern\obj\Debug\net6.0\right triangle pattern.csproj.CoreCompileInputs.cache
+D:\PROJECTS\Console app\Dot net tricks\right triangle pattern\obj\Debug\net6.0\right triangle pattern.dll
+D:\PROJECTS\Console app\Dot net tricks\right triangle pattern\obj\Debug\net6.0\refint\right triangle pattern.dll
+D:\PROJECTS\Console app\Dot net tricks\right triangle pattern\obj\Debug\net6.0\right triangle pattern.pdb
+D:\PROJECTS\Console app\Dot net tricks\right triangle pattern\obj\Debug\net6.0\right triangle pattern.genruntimeconfig.cache
+D:\PROJECTS\Console app\Dot net tricks\right triangle pattern\obj\Debug\net6.0\ref\right triangle pattern.dll
