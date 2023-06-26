@@ -1,0 +1,15 @@
+D:\PROJECTS\Console app\Dot net tricks\Right Triangle Repeat Number Pattern\bin\Debug\net6.0\Right Triangle Repeat Number Pattern.exe
+D:\PROJECTS\Console app\Dot net tricks\Right Triangle Repeat Number Pattern\bin\Debug\net6.0\Right Triangle Repeat Number Pattern.deps.json
+D:\PROJECTS\Console app\Dot net tricks\Right Triangle Repeat Number Pattern\bin\Debug\net6.0\Right Triangle Repeat Number Pattern.runtimeconfig.json
+D:\PROJECTS\Console app\Dot net tricks\Right Triangle Repeat Number Pattern\bin\Debug\net6.0\Right Triangle Repeat Number Pattern.dll
+D:\PROJECTS\Console app\Dot net tricks\Right Triangle Repeat Number Pattern\bin\Debug\net6.0\Right Triangle Repeat Number Pattern.pdb
+D:\PROJECTS\Console app\Dot net tricks\Right Triangle Repeat Number Pattern\obj\Debug\net6.0\Right Triangle Repeat Number Pattern.csproj.AssemblyReference.cache
+D:\PROJECTS\Console app\Dot net tricks\Right Triangle Repeat Number Pattern\obj\Debug\net6.0\Right Triangle Repeat Number Pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\Console app\Dot net tricks\Right Triangle Repeat Number Pattern\obj\Debug\net6.0\Right Triangle Repeat Number Pattern.AssemblyInfoInputs.cache
+D:\PROJECTS\Console app\Dot net tricks\Right Triangle Repeat Number Pattern\obj\Debug\net6.0\Right Triangle Repeat Number Pattern.AssemblyInfo.cs
+D:\PROJECTS\Console app\Dot net tricks\Right Triangle Repeat Number Pattern\obj\Debug\net6.0\Right Triangle Repeat Number Pattern.csproj.CoreCompileInputs.cache
+D:\PROJECTS\Console app\Dot net tricks\Right Triangle Repeat Number Pattern\obj\Debug\net6.0\Right Triangle Repeat Number Pattern.dll
+D:\PROJECTS\Console app\Dot net tricks\Right Triangle Repeat Number Pattern\obj\Debug\net6.0\refint\Right Triangle Repeat Number Pattern.dll
+D:\PROJECTS\Console app\Dot net tricks\Right Triangle Repeat Number Pattern\obj\Debug\net6.0\Right Triangle Repeat Number Pattern.pdb
+D:\PROJECTS\Console app\Dot net tricks\Right Triangle Repeat Number Pattern\obj\Debug\net6.0\Right Triangle Repeat Number Pattern.genruntimeconfig.cache
+D:\PROJECTS\Console app\Dot net tricks\Right Triangle Repeat Number Pattern\obj\Debug\net6.0\ref\Right Triangle Repeat Number Pattern.dll
