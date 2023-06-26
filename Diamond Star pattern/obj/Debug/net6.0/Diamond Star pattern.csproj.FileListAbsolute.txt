@@ -1,0 +1,15 @@
+D:\PROJECTS\Console app\Dot net tricks\Diamond Star pattern\bin\Debug\net6.0\Diamond Star pattern.exe
+D:\PROJECTS\Console app\Dot net tricks\Diamond Star pattern\bin\Debug\net6.0\Diamond Star pattern.deps.json
+D:\PROJECTS\Console app\Dot net tricks\Diamond Star pattern\bin\Debug\net6.0\Diamond Star pattern.runtimeconfig.json
+D:\PROJECTS\Console app\Dot net tricks\Diamond Star pattern\bin\Debug\net6.0\Diamond Star pattern.dll
+D:\PROJECTS\Console app\Dot net tricks\Diamond Star pattern\bin\Debug\net6.0\Diamond Star pattern.pdb
+D:\PROJECTS\Console app\Dot net tricks\Diamond Star pattern\obj\Debug\net6.0\Diamond Star pattern.csproj.AssemblyReference.cache
+D:\PROJECTS\Console app\Dot net tricks\Diamond Star pattern\obj\Debug\net6.0\Diamond Star pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\Console app\Dot net tricks\Diamond Star pattern\obj\Debug\net6.0\Diamond Star pattern.AssemblyInfoInputs.cache
+D:\PROJECTS\Console app\Dot net tricks\Diamond Star pattern\obj\Debug\net6.0\Diamond Star pattern.AssemblyInfo.cs
+D:\PROJECTS\Console app\Dot net tricks\Diamond Star pattern\obj\Debug\net6.0\Diamond Star pattern.csproj.CoreCompileInputs.cache
+D:\PROJECTS\Console app\Dot net tricks\Diamond Star pattern\obj\Debug\net6.0\Diamond Star pattern.dll
+D:\PROJECTS\Console app\Dot net tricks\Diamond Star pattern\obj\Debug\net6.0\refint\Diamond Star pattern.dll
+D:\PROJECTS\Console app\Dot net tricks\Diamond Star pattern\obj\Debug\net6.0\Diamond Star pattern.pdb
+D:\PROJECTS\Console app\Dot net tricks\Diamond Star pattern\obj\Debug\net6.0\Diamond Star pattern.genruntimeconfig.cache
+D:\PROJECTS\Console app\Dot net tricks\Diamond Star pattern\obj\Debug\net6.0\ref\Diamond Star pattern.dll

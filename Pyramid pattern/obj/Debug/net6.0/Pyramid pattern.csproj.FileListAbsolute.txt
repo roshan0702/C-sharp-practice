@@ -1,0 +1,15 @@
+D:\PROJECTS\Console app\Dot net tricks\Pyramid pattern\bin\Debug\net6.0\Pyramid pattern.exe
+D:\PROJECTS\Console app\Dot net tricks\Pyramid pattern\bin\Debug\net6.0\Pyramid pattern.deps.json
+D:\PROJECTS\Console app\Dot net tricks\Pyramid pattern\bin\Debug\net6.0\Pyramid pattern.runtimeconfig.json
+D:\PROJECTS\Console app\Dot net tricks\Pyramid pattern\bin\Debug\net6.0\Pyramid pattern.dll
+D:\PROJECTS\Console app\Dot net tricks\Pyramid pattern\bin\Debug\net6.0\Pyramid pattern.pdb
+D:\PROJECTS\Console app\Dot net tricks\Pyramid pattern\obj\Debug\net6.0\Pyramid pattern.csproj.AssemblyReference.cache
+D:\PROJECTS\Console app\Dot net tricks\Pyramid pattern\obj\Debug\net6.0\Pyramid pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\Console app\Dot net tricks\Pyramid pattern\obj\Debug\net6.0\Pyramid pattern.AssemblyInfoInputs.cache
+D:\PROJECTS\Console app\Dot net tricks\Pyramid pattern\obj\Debug\net6.0\Pyramid pattern.AssemblyInfo.cs
+D:\PROJECTS\Console app\Dot net tricks\Pyramid pattern\obj\Debug\net6.0\Pyramid pattern.csproj.CoreCompileInputs.cache
+D:\PROJECTS\Console app\Dot net tricks\Pyramid pattern\obj\Debug\net6.0\Pyramid pattern.dll
+D:\PROJECTS\Console app\Dot net tricks\Pyramid pattern\obj\Debug\net6.0\refint\Pyramid pattern.dll
+D:\PROJECTS\Console app\Dot net tricks\Pyramid pattern\obj\Debug\net6.0\Pyramid pattern.pdb
+D:\PROJECTS\Console app\Dot net tricks\Pyramid pattern\obj\Debug\net6.0\Pyramid pattern.genruntimeconfig.cache
+D:\PROJECTS\Console app\Dot net tricks\Pyramid pattern\obj\Debug\net6.0\ref\Pyramid pattern.dll
