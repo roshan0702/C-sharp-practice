@@ -1,0 +1,15 @@
+D:\PROJECTS\Console app\Dot net tricks\Inverted Right Triangle Number Pattern (Asc)\bin\Debug\net6.0\Inverted Right Triangle Number Pattern (Asc).exe
+D:\PROJECTS\Console app\Dot net tricks\Inverted Right Triangle Number Pattern (Asc)\bin\Debug\net6.0\Inverted Right Triangle Number Pattern (Asc).deps.json
+D:\PROJECTS\Console app\Dot net tricks\Inverted Right Triangle Number Pattern (Asc)\bin\Debug\net6.0\Inverted Right Triangle Number Pattern (Asc).runtimeconfig.json
+D:\PROJECTS\Console app\Dot net tricks\Inverted Right Triangle Number Pattern (Asc)\bin\Debug\net6.0\Inverted Right Triangle Number Pattern (Asc).dll
+D:\PROJECTS\Console app\Dot net tricks\Inverted Right Triangle Number Pattern (Asc)\bin\Debug\net6.0\Inverted Right Triangle Number Pattern (Asc).pdb
+D:\PROJECTS\Console app\Dot net tricks\Inverted Right Triangle Number Pattern (Asc)\obj\Debug\net6.0\Inverted Right Triangle Number Pattern (Asc).csproj.AssemblyReference.cache
+D:\PROJECTS\Console app\Dot net tricks\Inverted Right Triangle Number Pattern (Asc)\obj\Debug\net6.0\Inverted Right Triangle Number Pattern (Asc).GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\Console app\Dot net tricks\Inverted Right Triangle Number Pattern (Asc)\obj\Debug\net6.0\Inverted Right Triangle Number Pattern (Asc).AssemblyInfoInputs.cache
+D:\PROJECTS\Console app\Dot net tricks\Inverted Right Triangle Number Pattern (Asc)\obj\Debug\net6.0\Inverted Right Triangle Number Pattern (Asc).AssemblyInfo.cs
+D:\PROJECTS\Console app\Dot net tricks\Inverted Right Triangle Number Pattern (Asc)\obj\Debug\net6.0\Inverted Right Triangle Number Pattern (Asc).csproj.CoreCompileInputs.cache
+D:\PROJECTS\Console app\Dot net tricks\Inverted Right Triangle Number Pattern (Asc)\obj\Debug\net6.0\Inverted Right Triangle Number Pattern (Asc).dll
+D:\PROJECTS\Console app\Dot net tricks\Inverted Right Triangle Number Pattern (Asc)\obj\Debug\net6.0\refint\Inverted Right Triangle Number Pattern (Asc).dll
+D:\PROJECTS\Console app\Dot net tricks\Inverted Right Triangle Number Pattern (Asc)\obj\Debug\net6.0\Inverted Right Triangle Number Pattern (Asc).pdb
+D:\PROJECTS\Console app\Dot net tricks\Inverted Right Triangle Number Pattern (Asc)\obj\Debug\net6.0\Inverted Right Triangle Number Pattern (Asc).genruntimeconfig.cache
+D:\PROJECTS\Console app\Dot net tricks\Inverted Right Triangle Number Pattern (Asc)\obj\Debug\net6.0\ref\Inverted Right Triangle Number Pattern (Asc).dll

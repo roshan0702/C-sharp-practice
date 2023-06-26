@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Pyramid Repeat Number Pattern/1.0.0": {
+        "runtime": {
+          "Pyramid Repeat Number Pattern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pyramid Repeat Number Pattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
