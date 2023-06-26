@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diamond Number Pattern", "Diamond Number Pattern.csproj", "{BB352BFE-EA9D-4EBF-BAE9-31DB1BE0D807}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB352BFE-EA9D-4EBF-BAE9-31DB1BE0D807}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB352BFE-EA9D-4EBF-BAE9-31DB1BE0D807}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB352BFE-EA9D-4EBF-BAE9-31DB1BE0D807}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB352BFE-EA9D-4EBF-BAE9-31DB1BE0D807}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85E969F5-F5F6-4990-9031-C01E7F8834F2}
+	EndGlobalSection
+EndGlobal
