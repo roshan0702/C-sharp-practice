@@ -1,0 +1,15 @@
+D:\PROJECTS\Console app\Dot net tricks\Diamond Alphabet Pattern\bin\Debug\net6.0\Diamond Alphabet Pattern.exe
+D:\PROJECTS\Console app\Dot net tricks\Diamond Alphabet Pattern\bin\Debug\net6.0\Diamond Alphabet Pattern.deps.json
+D:\PROJECTS\Console app\Dot net tricks\Diamond Alphabet Pattern\bin\Debug\net6.0\Diamond Alphabet Pattern.runtimeconfig.json
+D:\PROJECTS\Console app\Dot net tricks\Diamond Alphabet Pattern\bin\Debug\net6.0\Diamond Alphabet Pattern.dll
+D:\PROJECTS\Console app\Dot net tricks\Diamond Alphabet Pattern\bin\Debug\net6.0\Diamond Alphabet Pattern.pdb
+D:\PROJECTS\Console app\Dot net tricks\Diamond Alphabet Pattern\obj\Debug\net6.0\Diamond Alphabet Pattern.csproj.AssemblyReference.cache
+D:\PROJECTS\Console app\Dot net tricks\Diamond Alphabet Pattern\obj\Debug\net6.0\Diamond Alphabet Pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\Console app\Dot net tricks\Diamond Alphabet Pattern\obj\Debug\net6.0\Diamond Alphabet Pattern.AssemblyInfoInputs.cache
+D:\PROJECTS\Console app\Dot net tricks\Diamond Alphabet Pattern\obj\Debug\net6.0\Diamond Alphabet Pattern.AssemblyInfo.cs
+D:\PROJECTS\Console app\Dot net tricks\Diamond Alphabet Pattern\obj\Debug\net6.0\Diamond Alphabet Pattern.csproj.CoreCompileInputs.cache
+D:\PROJECTS\Console app\Dot net tricks\Diamond Alphabet Pattern\obj\Debug\net6.0\Diamond Alphabet Pattern.dll
+D:\PROJECTS\Console app\Dot net tricks\Diamond Alphabet Pattern\obj\Debug\net6.0\refint\Diamond Alphabet Pattern.dll
+D:\PROJECTS\Console app\Dot net tricks\Diamond Alphabet Pattern\obj\Debug\net6.0\Diamond Alphabet Pattern.pdb
+D:\PROJECTS\Console app\Dot net tricks\Diamond Alphabet Pattern\obj\Debug\net6.0\Diamond Alphabet Pattern.genruntimeconfig.cache
+D:\PROJECTS\Console app\Dot net tricks\Diamond Alphabet Pattern\obj\Debug\net6.0\ref\Diamond Alphabet Pattern.dll
