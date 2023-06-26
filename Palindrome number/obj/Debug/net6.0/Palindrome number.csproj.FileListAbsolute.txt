@@ -1,0 +1,15 @@
+D:\PROJECTS\Console app\Dot net tricks\Palindrome number\bin\Debug\net6.0\Palindrome number.exe
+D:\PROJECTS\Console app\Dot net tricks\Palindrome number\bin\Debug\net6.0\Palindrome number.deps.json
+D:\PROJECTS\Console app\Dot net tricks\Palindrome number\bin\Debug\net6.0\Palindrome number.runtimeconfig.json
+D:\PROJECTS\Console app\Dot net tricks\Palindrome number\bin\Debug\net6.0\Palindrome number.dll
+D:\PROJECTS\Console app\Dot net tricks\Palindrome number\bin\Debug\net6.0\Palindrome number.pdb
+D:\PROJECTS\Console app\Dot net tricks\Palindrome number\obj\Debug\net6.0\Palindrome number.csproj.AssemblyReference.cache
+D:\PROJECTS\Console app\Dot net tricks\Palindrome number\obj\Debug\net6.0\Palindrome number.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\Console app\Dot net tricks\Palindrome number\obj\Debug\net6.0\Palindrome number.AssemblyInfoInputs.cache
+D:\PROJECTS\Console app\Dot net tricks\Palindrome number\obj\Debug\net6.0\Palindrome number.AssemblyInfo.cs
+D:\PROJECTS\Console app\Dot net tricks\Palindrome number\obj\Debug\net6.0\Palindrome number.csproj.CoreCompileInputs.cache
+D:\PROJECTS\Console app\Dot net tricks\Palindrome number\obj\Debug\net6.0\Palindrome number.dll
+D:\PROJECTS\Console app\Dot net tricks\Palindrome number\obj\Debug\net6.0\refint\Palindrome number.dll
+D:\PROJECTS\Console app\Dot net tricks\Palindrome number\obj\Debug\net6.0\Palindrome number.pdb
+D:\PROJECTS\Console app\Dot net tricks\Palindrome number\obj\Debug\net6.0\Palindrome number.genruntimeconfig.cache
+D:\PROJECTS\Console app\Dot net tricks\Palindrome number\obj\Debug\net6.0\ref\Palindrome number.dll

@@ -1,0 +1,15 @@
+D:\PROJECTS\Console app\Dot net tricks\Armstrong number\bin\Debug\net6.0\Armstrong number.exe
+D:\PROJECTS\Console app\Dot net tricks\Armstrong number\bin\Debug\net6.0\Armstrong number.deps.json
+D:\PROJECTS\Console app\Dot net tricks\Armstrong number\bin\Debug\net6.0\Armstrong number.runtimeconfig.json
+D:\PROJECTS\Console app\Dot net tricks\Armstrong number\bin\Debug\net6.0\Armstrong number.dll
+D:\PROJECTS\Console app\Dot net tricks\Armstrong number\bin\Debug\net6.0\Armstrong number.pdb
+D:\PROJECTS\Console app\Dot net tricks\Armstrong number\obj\Debug\net6.0\Armstrong number.csproj.AssemblyReference.cache
+D:\PROJECTS\Console app\Dot net tricks\Armstrong number\obj\Debug\net6.0\Armstrong number.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\Console app\Dot net tricks\Armstrong number\obj\Debug\net6.0\Armstrong number.AssemblyInfoInputs.cache
+D:\PROJECTS\Console app\Dot net tricks\Armstrong number\obj\Debug\net6.0\Armstrong number.AssemblyInfo.cs
+D:\PROJECTS\Console app\Dot net tricks\Armstrong number\obj\Debug\net6.0\Armstrong number.csproj.CoreCompileInputs.cache
+D:\PROJECTS\Console app\Dot net tricks\Armstrong number\obj\Debug\net6.0\Armstrong number.dll
+D:\PROJECTS\Console app\Dot net tricks\Armstrong number\obj\Debug\net6.0\refint\Armstrong number.dll
+D:\PROJECTS\Console app\Dot net tricks\Armstrong number\obj\Debug\net6.0\Armstrong number.pdb
+D:\PROJECTS\Console app\Dot net tricks\Armstrong number\obj\Debug\net6.0\Armstrong number.genruntimeconfig.cache
+D:\PROJECTS\Console app\Dot net tricks\Armstrong number\obj\Debug\net6.0\ref\Armstrong number.dll
