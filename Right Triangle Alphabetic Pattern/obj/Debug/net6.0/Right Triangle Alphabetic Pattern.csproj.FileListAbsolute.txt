@@ -1,0 +1,15 @@
+D:\PROJECTS\Console app\Dot net tricks\Right Triangle Alphabetic Pattern\bin\Debug\net6.0\Right Triangle Alphabetic Pattern.exe
+D:\PROJECTS\Console app\Dot net tricks\Right Triangle Alphabetic Pattern\bin\Debug\net6.0\Right Triangle Alphabetic Pattern.deps.json
+D:\PROJECTS\Console app\Dot net tricks\Right Triangle Alphabetic Pattern\bin\Debug\net6.0\Right Triangle Alphabetic Pattern.runtimeconfig.json
+D:\PROJECTS\Console app\Dot net tricks\Right Triangle Alphabetic Pattern\bin\Debug\net6.0\Right Triangle Alphabetic Pattern.dll
+D:\PROJECTS\Console app\Dot net tricks\Right Triangle Alphabetic Pattern\bin\Debug\net6.0\Right Triangle Alphabetic Pattern.pdb
+D:\PROJECTS\Console app\Dot net tricks\Right Triangle Alphabetic Pattern\obj\Debug\net6.0\Right Triangle Alphabetic Pattern.csproj.AssemblyReference.cache
+D:\PROJECTS\Console app\Dot net tricks\Right Triangle Alphabetic Pattern\obj\Debug\net6.0\Right Triangle Alphabetic Pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\Console app\Dot net tricks\Right Triangle Alphabetic Pattern\obj\Debug\net6.0\Right Triangle Alphabetic Pattern.AssemblyInfoInputs.cache
+D:\PROJECTS\Console app\Dot net tricks\Right Triangle Alphabetic Pattern\obj\Debug\net6.0\Right Triangle Alphabetic Pattern.AssemblyInfo.cs
+D:\PROJECTS\Console app\Dot net tricks\Right Triangle Alphabetic Pattern\obj\Debug\net6.0\Right Triangle Alphabetic Pattern.csproj.CoreCompileInputs.cache
+D:\PROJECTS\Console app\Dot net tricks\Right Triangle Alphabetic Pattern\obj\Debug\net6.0\Right Triangle Alphabetic Pattern.dll
+D:\PROJECTS\Console app\Dot net tricks\Right Triangle Alphabetic Pattern\obj\Debug\net6.0\refint\Right Triangle Alphabetic Pattern.dll
+D:\PROJECTS\Console app\Dot net tricks\Right Triangle Alphabetic Pattern\obj\Debug\net6.0\Right Triangle Alphabetic Pattern.pdb
+D:\PROJECTS\Console app\Dot net tricks\Right Triangle Alphabetic Pattern\obj\Debug\net6.0\Right Triangle Alphabetic Pattern.genruntimeconfig.cache
+D:\PROJECTS\Console app\Dot net tricks\Right Triangle Alphabetic Pattern\obj\Debug\net6.0\ref\Right Triangle Alphabetic Pattern.dll

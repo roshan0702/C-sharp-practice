@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Right Triangle Repeat Alphabet Pattern/1.0.0": {
+        "runtime": {
+          "Right Triangle Repeat Alphabet Pattern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Right Triangle Repeat Alphabet Pattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

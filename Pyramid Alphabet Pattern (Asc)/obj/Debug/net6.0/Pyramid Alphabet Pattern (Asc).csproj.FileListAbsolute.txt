@@ -1,0 +1,15 @@
+D:\PROJECTS\Console app\Dot net tricks\Pyramid Alphabet Pattern (Asc)\bin\Debug\net6.0\Pyramid Alphabet Pattern (Asc).exe
+D:\PROJECTS\Console app\Dot net tricks\Pyramid Alphabet Pattern (Asc)\bin\Debug\net6.0\Pyramid Alphabet Pattern (Asc).deps.json
+D:\PROJECTS\Console app\Dot net tricks\Pyramid Alphabet Pattern (Asc)\bin\Debug\net6.0\Pyramid Alphabet Pattern (Asc).runtimeconfig.json
+D:\PROJECTS\Console app\Dot net tricks\Pyramid Alphabet Pattern (Asc)\bin\Debug\net6.0\Pyramid Alphabet Pattern (Asc).dll
+D:\PROJECTS\Console app\Dot net tricks\Pyramid Alphabet Pattern (Asc)\bin\Debug\net6.0\Pyramid Alphabet Pattern (Asc).pdb
+D:\PROJECTS\Console app\Dot net tricks\Pyramid Alphabet Pattern (Asc)\obj\Debug\net6.0\Pyramid Alphabet Pattern (Asc).csproj.AssemblyReference.cache
+D:\PROJECTS\Console app\Dot net tricks\Pyramid Alphabet Pattern (Asc)\obj\Debug\net6.0\Pyramid Alphabet Pattern (Asc).GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\Console app\Dot net tricks\Pyramid Alphabet Pattern (Asc)\obj\Debug\net6.0\Pyramid Alphabet Pattern (Asc).AssemblyInfoInputs.cache
+D:\PROJECTS\Console app\Dot net tricks\Pyramid Alphabet Pattern (Asc)\obj\Debug\net6.0\Pyramid Alphabet Pattern (Asc).AssemblyInfo.cs
+D:\PROJECTS\Console app\Dot net tricks\Pyramid Alphabet Pattern (Asc)\obj\Debug\net6.0\Pyramid Alphabet Pattern (Asc).csproj.CoreCompileInputs.cache
+D:\PROJECTS\Console app\Dot net tricks\Pyramid Alphabet Pattern (Asc)\obj\Debug\net6.0\Pyramid Alphabet Pattern (Asc).dll
+D:\PROJECTS\Console app\Dot net tricks\Pyramid Alphabet Pattern (Asc)\obj\Debug\net6.0\refint\Pyramid Alphabet Pattern (Asc).dll
+D:\PROJECTS\Console app\Dot net tricks\Pyramid Alphabet Pattern (Asc)\obj\Debug\net6.0\Pyramid Alphabet Pattern (Asc).pdb
+D:\PROJECTS\Console app\Dot net tricks\Pyramid Alphabet Pattern (Asc)\obj\Debug\net6.0\Pyramid Alphabet Pattern (Asc).genruntimeconfig.cache
+D:\PROJECTS\Console app\Dot net tricks\Pyramid Alphabet Pattern (Asc)\obj\Debug\net6.0\ref\Pyramid Alphabet Pattern (Asc).dll

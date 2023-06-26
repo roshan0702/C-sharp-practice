@@ -1,0 +1,15 @@
+D:\PROJECTS\Console app\Dot net tricks\Right Triangle Repeat Alphabet Pattern\bin\Debug\net6.0\Right Triangle Repeat Alphabet Pattern.exe
+D:\PROJECTS\Console app\Dot net tricks\Right Triangle Repeat Alphabet Pattern\bin\Debug\net6.0\Right Triangle Repeat Alphabet Pattern.deps.json
+D:\PROJECTS\Console app\Dot net tricks\Right Triangle Repeat Alphabet Pattern\bin\Debug\net6.0\Right Triangle Repeat Alphabet Pattern.runtimeconfig.json
+D:\PROJECTS\Console app\Dot net tricks\Right Triangle Repeat Alphabet Pattern\bin\Debug\net6.0\Right Triangle Repeat Alphabet Pattern.dll
+D:\PROJECTS\Console app\Dot net tricks\Right Triangle Repeat Alphabet Pattern\bin\Debug\net6.0\Right Triangle Repeat Alphabet Pattern.pdb
+D:\PROJECTS\Console app\Dot net tricks\Right Triangle Repeat Alphabet Pattern\obj\Debug\net6.0\Right Triangle Repeat Alphabet Pattern.csproj.AssemblyReference.cache
+D:\PROJECTS\Console app\Dot net tricks\Right Triangle Repeat Alphabet Pattern\obj\Debug\net6.0\Right Triangle Repeat Alphabet Pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\Console app\Dot net tricks\Right Triangle Repeat Alphabet Pattern\obj\Debug\net6.0\Right Triangle Repeat Alphabet Pattern.AssemblyInfoInputs.cache
+D:\PROJECTS\Console app\Dot net tricks\Right Triangle Repeat Alphabet Pattern\obj\Debug\net6.0\Right Triangle Repeat Alphabet Pattern.AssemblyInfo.cs
+D:\PROJECTS\Console app\Dot net tricks\Right Triangle Repeat Alphabet Pattern\obj\Debug\net6.0\Right Triangle Repeat Alphabet Pattern.csproj.CoreCompileInputs.cache
+D:\PROJECTS\Console app\Dot net tricks\Right Triangle Repeat Alphabet Pattern\obj\Debug\net6.0\Right Triangle Repeat Alphabet Pattern.dll
+D:\PROJECTS\Console app\Dot net tricks\Right Triangle Repeat Alphabet Pattern\obj\Debug\net6.0\refint\Right Triangle Repeat Alphabet Pattern.dll
+D:\PROJECTS\Console app\Dot net tricks\Right Triangle Repeat Alphabet Pattern\obj\Debug\net6.0\Right Triangle Repeat Alphabet Pattern.pdb
+D:\PROJECTS\Console app\Dot net tricks\Right Triangle Repeat Alphabet Pattern\obj\Debug\net6.0\Right Triangle Repeat Alphabet Pattern.genruntimeconfig.cache
+D:\PROJECTS\Console app\Dot net tricks\Right Triangle Repeat Alphabet Pattern\obj\Debug\net6.0\ref\Right Triangle Repeat Alphabet Pattern.dll
