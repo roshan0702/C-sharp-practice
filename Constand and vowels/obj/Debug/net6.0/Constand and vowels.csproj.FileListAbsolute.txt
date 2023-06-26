@@ -1,0 +1,15 @@
+D:\PROJECTS\Console app\Dot net tricks\Constand and vowels\bin\Debug\net6.0\Constand and vowels.exe
+D:\PROJECTS\Console app\Dot net tricks\Constand and vowels\bin\Debug\net6.0\Constand and vowels.deps.json
+D:\PROJECTS\Console app\Dot net tricks\Constand and vowels\bin\Debug\net6.0\Constand and vowels.runtimeconfig.json
+D:\PROJECTS\Console app\Dot net tricks\Constand and vowels\bin\Debug\net6.0\Constand and vowels.dll
+D:\PROJECTS\Console app\Dot net tricks\Constand and vowels\bin\Debug\net6.0\Constand and vowels.pdb
+D:\PROJECTS\Console app\Dot net tricks\Constand and vowels\obj\Debug\net6.0\Constand and vowels.csproj.AssemblyReference.cache
+D:\PROJECTS\Console app\Dot net tricks\Constand and vowels\obj\Debug\net6.0\Constand and vowels.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\Console app\Dot net tricks\Constand and vowels\obj\Debug\net6.0\Constand and vowels.AssemblyInfoInputs.cache
+D:\PROJECTS\Console app\Dot net tricks\Constand and vowels\obj\Debug\net6.0\Constand and vowels.AssemblyInfo.cs
+D:\PROJECTS\Console app\Dot net tricks\Constand and vowels\obj\Debug\net6.0\Constand and vowels.csproj.CoreCompileInputs.cache
+D:\PROJECTS\Console app\Dot net tricks\Constand and vowels\obj\Debug\net6.0\Constand and vowels.dll
+D:\PROJECTS\Console app\Dot net tricks\Constand and vowels\obj\Debug\net6.0\refint\Constand and vowels.dll
+D:\PROJECTS\Console app\Dot net tricks\Constand and vowels\obj\Debug\net6.0\Constand and vowels.pdb
+D:\PROJECTS\Console app\Dot net tricks\Constand and vowels\obj\Debug\net6.0\Constand and vowels.genruntimeconfig.cache
+D:\PROJECTS\Console app\Dot net tricks\Constand and vowels\obj\Debug\net6.0\ref\Constand and vowels.dll
