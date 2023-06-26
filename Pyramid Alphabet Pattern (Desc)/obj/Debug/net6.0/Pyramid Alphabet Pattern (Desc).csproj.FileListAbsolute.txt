@@ -1,0 +1,15 @@
+D:\PROJECTS\Console app\Dot net tricks\Pyramid Alphabet Pattern (Desc)\bin\Debug\net6.0\Pyramid Alphabet Pattern (Desc).exe
+D:\PROJECTS\Console app\Dot net tricks\Pyramid Alphabet Pattern (Desc)\bin\Debug\net6.0\Pyramid Alphabet Pattern (Desc).deps.json
+D:\PROJECTS\Console app\Dot net tricks\Pyramid Alphabet Pattern (Desc)\bin\Debug\net6.0\Pyramid Alphabet Pattern (Desc).runtimeconfig.json
+D:\PROJECTS\Console app\Dot net tricks\Pyramid Alphabet Pattern (Desc)\bin\Debug\net6.0\Pyramid Alphabet Pattern (Desc).dll
+D:\PROJECTS\Console app\Dot net tricks\Pyramid Alphabet Pattern (Desc)\bin\Debug\net6.0\Pyramid Alphabet Pattern (Desc).pdb
+D:\PROJECTS\Console app\Dot net tricks\Pyramid Alphabet Pattern (Desc)\obj\Debug\net6.0\Pyramid Alphabet Pattern (Desc).csproj.AssemblyReference.cache
+D:\PROJECTS\Console app\Dot net tricks\Pyramid Alphabet Pattern (Desc)\obj\Debug\net6.0\Pyramid Alphabet Pattern (Desc).GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\Console app\Dot net tricks\Pyramid Alphabet Pattern (Desc)\obj\Debug\net6.0\Pyramid Alphabet Pattern (Desc).AssemblyInfoInputs.cache
+D:\PROJECTS\Console app\Dot net tricks\Pyramid Alphabet Pattern (Desc)\obj\Debug\net6.0\Pyramid Alphabet Pattern (Desc).AssemblyInfo.cs
+D:\PROJECTS\Console app\Dot net tricks\Pyramid Alphabet Pattern (Desc)\obj\Debug\net6.0\Pyramid Alphabet Pattern (Desc).csproj.CoreCompileInputs.cache
+D:\PROJECTS\Console app\Dot net tricks\Pyramid Alphabet Pattern (Desc)\obj\Debug\net6.0\Pyramid Alphabet Pattern (Desc).dll
+D:\PROJECTS\Console app\Dot net tricks\Pyramid Alphabet Pattern (Desc)\obj\Debug\net6.0\refint\Pyramid Alphabet Pattern (Desc).dll
+D:\PROJECTS\Console app\Dot net tricks\Pyramid Alphabet Pattern (Desc)\obj\Debug\net6.0\Pyramid Alphabet Pattern (Desc).pdb
+D:\PROJECTS\Console app\Dot net tricks\Pyramid Alphabet Pattern (Desc)\obj\Debug\net6.0\Pyramid Alphabet Pattern (Desc).genruntimeconfig.cache
+D:\PROJECTS\Console app\Dot net tricks\Pyramid Alphabet Pattern (Desc)\obj\Debug\net6.0\ref\Pyramid Alphabet Pattern (Desc).dll

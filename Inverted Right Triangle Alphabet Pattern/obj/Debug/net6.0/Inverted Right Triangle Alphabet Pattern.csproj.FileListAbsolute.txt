@@ -1,0 +1,15 @@
+D:\PROJECTS\Console app\Dot net tricks\Inverted Right Triangle Alphabet Pattern\bin\Debug\net6.0\Inverted Right Triangle Alphabet Pattern.exe
+D:\PROJECTS\Console app\Dot net tricks\Inverted Right Triangle Alphabet Pattern\bin\Debug\net6.0\Inverted Right Triangle Alphabet Pattern.deps.json
+D:\PROJECTS\Console app\Dot net tricks\Inverted Right Triangle Alphabet Pattern\bin\Debug\net6.0\Inverted Right Triangle Alphabet Pattern.runtimeconfig.json
+D:\PROJECTS\Console app\Dot net tricks\Inverted Right Triangle Alphabet Pattern\bin\Debug\net6.0\Inverted Right Triangle Alphabet Pattern.dll
+D:\PROJECTS\Console app\Dot net tricks\Inverted Right Triangle Alphabet Pattern\bin\Debug\net6.0\Inverted Right Triangle Alphabet Pattern.pdb
+D:\PROJECTS\Console app\Dot net tricks\Inverted Right Triangle Alphabet Pattern\obj\Debug\net6.0\Inverted Right Triangle Alphabet Pattern.csproj.AssemblyReference.cache
+D:\PROJECTS\Console app\Dot net tricks\Inverted Right Triangle Alphabet Pattern\obj\Debug\net6.0\Inverted Right Triangle Alphabet Pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\Console app\Dot net tricks\Inverted Right Triangle Alphabet Pattern\obj\Debug\net6.0\Inverted Right Triangle Alphabet Pattern.AssemblyInfoInputs.cache
+D:\PROJECTS\Console app\Dot net tricks\Inverted Right Triangle Alphabet Pattern\obj\Debug\net6.0\Inverted Right Triangle Alphabet Pattern.AssemblyInfo.cs
+D:\PROJECTS\Console app\Dot net tricks\Inverted Right Triangle Alphabet Pattern\obj\Debug\net6.0\Inverted Right Triangle Alphabet Pattern.csproj.CoreCompileInputs.cache
+D:\PROJECTS\Console app\Dot net tricks\Inverted Right Triangle Alphabet Pattern\obj\Debug\net6.0\Inverted Right Triangle Alphabet Pattern.dll
+D:\PROJECTS\Console app\Dot net tricks\Inverted Right Triangle Alphabet Pattern\obj\Debug\net6.0\refint\Inverted Right Triangle Alphabet Pattern.dll
+D:\PROJECTS\Console app\Dot net tricks\Inverted Right Triangle Alphabet Pattern\obj\Debug\net6.0\Inverted Right Triangle Alphabet Pattern.pdb
+D:\PROJECTS\Console app\Dot net tricks\Inverted Right Triangle Alphabet Pattern\obj\Debug\net6.0\Inverted Right Triangle Alphabet Pattern.genruntimeconfig.cache
+D:\PROJECTS\Console app\Dot net tricks\Inverted Right Triangle Alphabet Pattern\obj\Debug\net6.0\ref\Inverted Right Triangle Alphabet Pattern.dll
